@@ -60,24 +60,26 @@ Each group has an assigned instructor or IA, who will act as your client as well
 * Sophie
 * Star
 
+#### Team \#2: Justin
 * Diane   
 * Dan K
 * Yasu
 * Sol
 
-
+#### Team \3: Justin
 * Margaret
 * Kevin
 * Dan F
 * Derry
 
-#### Team \#1: Jean
+#### Team \#4: Jean
 
 * Stephen
 * Katie
 * Virginia
 * Casey
 
+#### Team \#5: Jean
 * Jon
 * Emily
 * Kyle
