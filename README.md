@@ -56,33 +56,32 @@ Each group has an assigned instructor or IA, who will act as your client as well
 
 #### Team \#1: Justin
 
-Vlad 
-Sophie
-Star
+* Vlad 
+* Sophie
+* Star
 
-Diane   
-Dan K
-Yasu
-Derry
+* Diane   
+* Dan K
+* Yasu
+* Sol
 
-Margaret
-Kevin
-Dan F
-Sol
+
+* Margaret
+* Kevin
+* Dan F
+* Derry
 
 #### Team \#1: Jean
 
-Stephen
-Katie
-Virginia
-Casey
+* Stephen
+* Katie
+* Virginia
+* Casey
 
-Jon
-Emily
-Kyle
-Martin
-
-
+* Jon
+* Emily
+* Kyle
+* Martin
 
 ## Presentation
 
