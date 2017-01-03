@@ -54,9 +54,34 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Team \#1 - TODO: INSTRUCTOR
-* TODO: STUDENT
-* TODO: STUDENT
+#### Team \#1: Justin
+
+Vlad 
+Sophie
+Star
+
+Diane   
+Dan K
+Yasu
+Derry
+
+Margaret
+Kevin
+Dan F
+Sol
+
+#### Team \#1: Jean
+
+Stephen
+Katie
+Virginia
+Casey
+
+Jon
+Emily
+Kyle
+Martin
+
 
 
 ## Presentation
