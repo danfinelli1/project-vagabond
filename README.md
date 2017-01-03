@@ -87,7 +87,7 @@ Each group has an assigned instructor or IA, who will act as your client as well
 
 ## Presentation
 
-Each group will present their project on **TODO: WEEKDAY, MONTH DAY** starting at **TODO: TIME** for 10 minutes.
+Each group will present their project on Friday January 6 starting at **9:17** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
