@@ -66,7 +66,7 @@ Each group has an assigned instructor or IA, who will act as your client as well
 * Yasu
 * Sol
 
-#### Team \3: Justin
+#### Team \#3: Justin
 * Margaret
 * Kevin
 * Dan F
